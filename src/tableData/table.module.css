@@ -1,0 +1,10 @@
+.containers {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 3px;
+}
+
+.table {
+  border: 1px solid lightgray;
+  line-height: 5px;
+}
